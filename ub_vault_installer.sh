@@ -101,6 +101,7 @@ mkdir -p $GK_HOME/hold
 mkdir -p $GK_HOME/app/bin
 mkdir -p $GK_HOME/dropoff
 mkdir -p $GK_HOME/trash
+mkdir -p $GK_HOME/config
 mkdir -p $GK_HOME/log
 mkdir -p $GK_HOME/opt
 
